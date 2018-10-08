@@ -6,5 +6,4 @@ test
 ubuntu run
 apt 
 install
-check 
-this
+
